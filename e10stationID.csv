@@ -1,0 +1,222 @@
+StationID,Brand,Address,Suburb,Postcode
+0,7-Eleven,"1 meagher ave (cnr malabar rd) (repn 9 june'16), maroubra nsw 2035",Maroubra,2035
+1,7-Eleven,"10 crystal st, petersham nsw 2049",PETERSHAM,2049
+2,7-Eleven,"110 anzac parade & goodwood st, kensington nsw 2033",Kensington,2033
+3,7-Eleven,"128 barker st, randwick nsw 2031",Randwick,2031
+4,7-Eleven,"131 anzac parade & todman ave, kensington nsw 2033",Kensington,2033
+5,7-Eleven,"1408 pacific highway (corner duff st), turramurra nsw 2074",Turramurra,2074
+6,7-Eleven,"157-159 mona vale rd, st ives nsw 2075",ST IVES,2075
+7,7-Eleven,"1579 pacific highway (corner redleaf ave), wahroonga nsw 2076",Wahroonga,2076
+8,7-Eleven,"159 mona vale rd (cnr putarri av) (clsd 16 jun'16), st ives nsw 2075",St Ives,2075
+9,7-Eleven,"162a spit rd (corner mitchell rd), mosman nsw 2088",Mosman,2088
+10,7-Eleven,"178-184 victoria rd (corner moodie st), rozelle nsw 2039",Rozelle,2039
+11,7-Eleven,"198 parramatta rd (corner pyrmont bridge rd), camperdown nsw 2050",Camperdown,2050
+12,7-Eleven,"198 parramatta rd, camperdown nsw 2050",CAMPERDOWN,2050
+13,7-Eleven,"203 burns bay rd, lane cove nsw 2066",Lane Cove,2066
+14,7-Eleven,"21-25 oxford st, paddington nsw 2021",PADDINGTON,2021
+15,7-Eleven,"22 stanmore rd (corner fotheringham st), enmore nsw 2042",Enmore,2042
+16,7-Eleven,"22 stanmore st, enmore nsw 2042",Enmore,2042
+17,7-Eleven,"231-235 great north rd, five dock nsw 2046",Five Dock,2046
+18,7-Eleven,"238 pacific highway, lindfield nsw 2070",Lindfield,2070
+19,7-Eleven,"25 oxford st, paddington nsw 2021",Paddington,2021
+20,7-Eleven,"25 parramatta rd, haberfield nsw 2045",Haberfield,2045
+21,7-Eleven,"271a victoria rd, drummoyne nsw 2047",Drummoyne,2047
+22,7-Eleven,"45 spit rd, mosman nsw 2088",Mosman,2088
+23,7-Eleven,"477 pacific highway, artarmon nsw 2064",Artarmon,2064
+24,7-Eleven,"485-487 smithfield rd, prairiewood nsw 20176",PRAIRIEWOOD,2017
+25,7-Eleven,"494 pacific hwy, killara nsw 2071",Killara,2071
+26,7-Eleven,"515 bunnerong rd, matraville nsw 2036",Matraville,2036
+27,7-Eleven,"8 - 10 crystal st, petersham nsw 2049",Petersham,2049
+28,7-Eleven,"940 pittwater rd & hawkesbury ave, dee why nsw 2099",Dee Why,2099
+29,7-Eleven,"965-969 pacific highway (corner waratah rd), berowra nsw 2081",Berowra,2081
+30,7-Eleven,"cnr oxford st & greens rd, paddington nsw 2021",PADDINGTON,2021
+31,7-Eleven,"corner pacific highway & boundary st, roseville nsw 2069",Roseville,2069
+32,Ampol,"111-121 falcon st, crows nest nsw 2065",CROWS NEST,2065
+33,Ampol,"116-118 old south head rd, woollahra nsw 2025",WOOLLAHRA,2025
+34,Ampol,"121 victoria rd, rozelle nsw 2039",ROZELLE,2039
+35,Ampol,"133 wyndham st, alexandria nsw 2015",ALEXANDRIA,2015
+36,Ampol,"146-148 coogee bay rd, coogee nsw 2034",COOGEE,2034
+37,Ampol,"153 forest way, belrose nsw 2085",Belrose,2085
+38,Ampol,"16-38 military rd, neutral bay nsw 2089",Neutral Bay,2089
+39,Ampol,"164 mona vale rd, st ives nsw 2075",ST IVES,2075
+40,Ampol,"169-173 malabar rd, south coogee nsw 2034",SOUTH COOGEE,2034
+41,Ampol,"2 alison rd, randwick nsw 2031",RANDWICK,2031
+42,Ampol,"211-213 anzac parade, kensington nsw 2033",KENSINGTON,2033
+43,Ampol,"236 condamine st, manly vale nsw 2093",MANLY VALE,2093
+44,Ampol,"321 gardeners rd, rosebery nsw 2018",ROSEBERY,2018
+45,Ampol,"321 old south head rd, north bondi nsw 2026",NORTH BONDI,2026
+46,Ampol,"363 mona vale rd, st ives north nsw 2075",ST IVES NORTH,2075
+47,Ampol,"572 pacific hwy, chatswood nsw 2067",Chatswood,2067
+48,Ampol,"59-61 pacific highway, waitara nsw 2077",WAITARA,2077
+49,Ampol,"603-611 anzac pde, kingsford nsw 2032",KINGSFORD,2032
+50,Ampol,"775 princes hwy, tempe nsw 2044",TEMPE,2044
+51,Ampol,"793-797 pittwater rd, dee why nsw 2099",DEE WHY,2099
+52,Ampol,"86 pittwater rd, manly nsw 2095",MANLY,2095
+53,Ampol,"ramsay rd & fairlight st, five dock nsw 2046",FIVE DOCK,2046
+54,Ampol,"unit 1 237-245 burns bay rd, lane cove west nsw 2066",LANE COVE WEST,2066
+55,BP,"111 berowra waters rd, berowra heights nsw 2082",BEROWRA HEIGHTS,2082
+56,BP,"133-139 pettwater rd, manly nsw 2095",Manly,2095
+57,BP,"133-139 pittwater rd, manly nsw 2095",MANLY,2095
+58,BP,"157 penshurst st, willoughby nsw 2068",Willoughby,2068
+59,BP,"1579 botany rd, botany nsw 1579",Botany,1579
+60,BP,"1579 botany rd, botany nsw 2019",BOTANY,2019
+61,BP,"175 ourimbah rd, mosman nsw 2088",Mosman,2088
+62,BP,"185 bondi rd, bondi nsw 2026",Bondi,2026
+63,BP,"2 princes highway, st peters nsw 2044",St Peters,2044
+64,BP,"213 kissing point rd, turramurra nsw 2074",Turramurra,2074
+65,BP,"316 penhurst st, willoughby nsw 2068",Willoughby,2068
+66,BP,"33-37 carrington rd, randwick nsw 2031",RANDWICK,2031
+67,BP,"368 anzac parade, kingsford nsw 2032",Kingsford,2032
+68,BP,"39 vernon st, woollahra nsw 2025",Woollahra,2025
+69,BP,"411-417 clenveland st, redfern nsw 2016",Redfern,2016
+70,BP,"411-417 cleveland st, redfern nsw 2016",REDFERN,2016
+71,BP,"422 pacific hwy, artarmon nsw 2064",Artarmon,2064
+72,BP,"45 yanko rd, west pymble nsw 2073",West Pymble,2073
+73,BP,"485 sydney rd, balgowlah nsw 2093",Balgowlah,2093
+74,BP,"500 willoughby rd, willoughby nsw 2068",Willoughby,2068
+75,BP,"551 darling st, rozelle nsw 2039",Rozelle,2039
+76,BP,"585 bunnerong rd, matraville nsw 2036",MATRAVILLE,2036
+77,BP,"599 old south head rd, rose bay nsw 2029",Rose Bay,2029
+78,BP,"62-70 epping rd, lane cove nsw 2066",Lane Cove,2066
+79,BP,"632 warringah rd, forestville nsw 2087",Forestville,2087
+80,BP,"67 new south head rd, edgecliff nsw 2027",EDGECLIFF,2027
+81,BP,"7-9 northwood rd, northwood nsw 2066",Northwood,2066
+82,BP,"73-79 new south head rd, edgecliff nsw 2027",EDGECLIFF,2027
+83,BP,"777 new south head rd, rose bay nsw 2029",ROSE BAY,2029
+84,BP,"8-10 perouse rd, randwick nsw 2031",RANDWICK,2031
+85,BP,"95-97 ramsay st, haberfield nsw 2045",HABERFIELD,2045
+86,BP,"95-97 ramsey rd, haberfield nsw 2045",Haberfield,2045
+87,BP,"cnr ave & cowles rds, mosman nsw 2088",Mosman,2088
+88,BP,"cnr butler rd & general holmes dve, mascot nsw 2020",Mascot,2020
+89,BP,"cnr pacific highway & jersey st, asquith nsw 2077",Asquith,2077
+90,BP,"cnr pacific hwy & bannockburn rd, pymble nsw 2073",Pymble,2073
+91,Budget,"1004 botany rd., mascot nsw 2020",Mascot,2020
+92,Budget,"102 maloney st, eastlakes nsw 2018",Eastlakes,2018
+93,Budget,"119 harbord rd, freshwater nsw 2096",Freshwater,2096
+94,Budget,"204-208 new canterbury rd, lewisham nsw 2049",LEWISHAM,2049
+95,Budget,"208 newcanterbury rd, petersham nsw 2049",Petersham,2049
+96,Budget,"25-33 erskineville rd, erskineville nsw 2043",ERSKINEVILLE,2043
+97,Budget,"37 crystal st., petersham nsw 2049",Petersham,2049
+98,Budget,"553 bunnerong rd, matraville nsw 2036",Matraville,2036
+99,Budget,"638 new south head rd, rose bay nsw 2029",Rose Bay,2029
+100,Budget,"66-70 regent st, chippendale nsw 2008",CHIPPENDALE,2008
+101,Budget,"8-10 perouse rd, randwick nsw 2031",Randwick,2031
+102,Caltex,"111-121 falcon st, crows nest nsw 2065",Crows Nest,2065
+103,Caltex,"116-118 old south head rd, woollahra nsw 2025",WOOLLAHRA,2025
+104,Caltex,"118 old south head rd, woollahra nsw 2025",Woollahra,2025
+105,Caltex,"121 victoria rd cnr wellington st, rozelle nsw 2039",Rozelle,2039
+106,Caltex,"121 victoria rd, rozelle nsw 2039",ROZELLE,2039
+107,Caltex,"133 wyndham st cnr mcevoy st, alexandria nsw 2015",Alexandria,2015
+108,Caltex,"133 wyndham st, alexandria nsw 2015",ALEXANDRIA,2015
+109,Caltex,"146-148 coogee bay rd, coogee nsw 2034",Coogee,2034
+110,Caltex,"153 forest way, belrose nsw 2085",Belrose,2085
+111,Caltex,"16-38 military rd, neutral bay nsw 2089",Neutral Bay,2089
+112,Caltex,"164 mona vale rd, st ives nsw 2075",St Ives,2075
+113,Caltex,"191 lyons rd, drummoyne nsw 2047",DRUMMOYNE,2047
+114,Caltex,"191-195 lyons rd, drummoyne nsw 2047",Drummoyne,2047
+115,Caltex,"2 alison rd, randwick nsw 2031",Randwick,2031
+116,Caltex,"211-213 anzac parade, kensington nsw 2033",Kensington,2033
+117,Caltex,"235-245 burns bay rd, lane cove west nsw 2066",LANE COVE WEST,2066
+118,Caltex,"236-238 condamine st, manly vale nsw 2093",Manly Vale,2093
+119,Caltex,"26 enmore rd, newtown nsw 2042",Newtown,2042
+120,Caltex,"321 gardeners rd, rosebery nsw 2018",Rosebery,2018
+121,Caltex,"321 old south head rd, north bondi nsw 2026",NORTH BONDI,2026
+122,Caltex,"363 mona vale rd, st ives north nsw 2075",St Ives North,2075
+123,Caltex,"488 old south head rd cnr albemarle, rose bay nsw 2029",Rose Bay,2029
+124,Caltex,"488 old south head rd, rose bay nsw 2029",ROSE BAY,2029
+125,Caltex,"51 bondi rd cnr park rd, bondi nsw 2026",Bondi,2026
+126,Caltex,"51 bondi rd, bondi nsw 2026",BONDI,2026
+127,Caltex,"572 pacific hwy, chatswood nsw 2067",Chatswood,2067
+128,Caltex,"59-61 pacific hwy cnr unwin rd, waitara nsw 2077",Waitara,2077
+129,Caltex,"59-63 tudor st, hamilton nsw 2033",Hamilton,2033
+130,Caltex,"603 pacific hwy, mount colah nsw 2079",Mount Colah,2079
+131,Caltex,"603-611 anzac pde cnr snape st, kingsford nsw 2032",Kingsford,2032
+132,Caltex,"603-611 anzac pde, kingsford nsw 2032",KINGSFORD,2032
+133,Caltex,"775 princes hwy, tempe nsw 2044",TEMPE,2044
+134,Caltex,"793-797 pittwater rd, dee why nsw 2099",Dee Why,2099
+135,Caltex,"86 pittwater rd, manly nsw 2095",Manly,2095
+136,Caltex,"burns bay rd, lane cove nsw 2066",Lane Cove,2066
+137,Caltex,"fairlight st cnr ramsay rd, five dock nsw 2046",Five Dock,2046
+138,Caltex,"unit 1 237-245 burns bay rd, lane cove west nsw 2066",LANE COVE WEST,2066
+139,Caltex Woolworths,"1233 pacific highway, turramurra nsw 2074",Turramurra,2074
+140,Caltex Woolworths,"133 wyndham st, alexandria nsw 2015",ALEXANDRIA,2015
+141,Caltex Woolworths,"169-173 malabar rd, south coogee nsw 2034",SOUTH COOGEE,2034
+142,Caltex Woolworths,"191-195 lyons rd, drummoyne nsw 2047",Drummoyne,2047
+143,Caltex Woolworths,"2 alison rd, randwick nsw 2031",RANDWICK,2031
+144,Caltex Woolworths,"236 condamine st, manly vale nsw 2093",MANLY VALE,2093
+145,Caltex Woolworths,"363 mona vale rd, st ives north nsw 2075",ST IVES NORTH,2075
+146,Caltex Woolworths,"364-366 eastern valley way, chatswood east nsw 2067",Chatswood East,2067
+147,Caltex Woolworths,"475 cleveland st, redfern nsw 2016",Redfern,2016
+148,Caltex Woolworths,"488 old south head rd cnr albemarle, rose bay nsw 2029",Rose Bay,2029
+149,Caltex Woolworths,"51 bondi rd, bondi nsw 2026",BONDI,2026
+150,Caltex Woolworths,"572 pacific hwy, chatswood nsw 2067",Chatswood,2067
+151,Caltex Woolworths,"59-61 pacific highway, waitara nsw 2077",WAITARA,2077
+152,Caltex Woolworths,"60 glenn st, belrose nsw 2085",Belrose,2085
+153,Caltex Woolworths,"603 pacific hwy, mount colah nsw 2079",MOUNT COLAH,2079
+154,Caltex Woolworths,"603-611 anzac pde, kingsford nsw 2032",KINGSFORD,2032
+155,Caltex Woolworths,"774 parramatta rd, lewisham nsw 2049",Lewisham,2049
+156,Caltex Woolworths,"ramsay rd & fairlight st, five dock nsw 2046",FIVE DOCK,2046
+157,Coles Express,"120-138 birrell st, bondi junction nsw 2022",Bondi Junction,2022
+158,Coles Express,"124-126 johnston st, annandale nsw 2038",Annandale,2038
+159,Coles Express,"1601 pacific hwy & coonanbarra rd, wahroonga nsw 2076",Wahroonga,2076
+160,Coles Express,"179-181 mona vale rd, st ives nsw 2075",St Ives,2075
+161,Coles Express,"194-206 pacific hwy, hornsby nsw 2077",Hornsby,2077
+162,Coles Express,"200-204 ben boyd rd (cnr ernest st), neutral bay nsw 2089",Neutral Bay,2089
+163,Coles Express,"21 ryde rd, pymble nsw 2073",Pymble,2073
+164,Coles Express,"213-253 parramatta rd & walker st, five dock nsw 2046",Five Dock,2046
+165,Coles Express,"227 military rd, cremorne nsw 2090",Cremorne,2090
+166,Coles Express,"297-299 bunnerong rd, pagewood nsw 2035",Pagewood,2035
+167,Coles Express,"308-310 parramatta rd, stanmore nsw 2048",Stanmore,2048
+168,Coles Express,"378 pacific hwy (cnr allison ave), lane cove nsw 2066",Lane Cove,2066
+169,Coles Express,"38-46 victoria rd, drummoyne nsw 2047",Drummoyne,2047
+170,Coles Express,"387 427 wattle st, ultimo nsw 2007",ULTIMO,2007
+171,Coles Express,"387-427 wattle (cnr kelly st), ultimo nsw 2007",Ultimo,2007
+172,Coles Express,"39- 51 victoria rd, drummoyne nsw 2047",Drummoyne,2047
+173,Coles Express,"477-483 miller st & palmer st, cammeray nsw 2062",Cammeray,2062
+174,Coles Express,"48-56 gardeners rd, kingsford nsw 2032",Kingsford,2032
+175,Coles Express,"54 alison rd, randwick nsw 2031",Randwick,2031
+176,Coles Express,"562-572 botany rd, alexandria nsw 2015",Alexandria,2015
+177,Coles Express,"61-63 cowper wharf rd (cnr dowling st), woolloomooloo nsw 2011",Woolloomooloo,2011
+178,Coles Express,"612-626 willoughby rd cnr penkivil st, willoughby nsw 2068",WILLOUGHBY,2068
+179,Coles Express,"616-626 willoughby rd (cnr penkivil st), willoughby nsw 2068",Willoughby,2068
+180,Coles Express,"665-671 warringah rd (cnr cook st), forestville nsw 2087",Forestville,2087
+181,Coles Express,"867-869 south dowling st, waterloo nsw 2017",Waterloo,2017
+182,Coles Express,"877-879 pacific hwy, chatswood nsw 2067",Chatswood,2067
+183,Coles Express,"955 pacific highway (cnr yallambee rd), berowra nsw 2081",Berowra,2081
+184,Coles Express,"frenchmans rd & clovelly rd, randwick nsw 2031",Randwick,2031
+185,Enhance,"46 albert st, freshwater nsw 2096",FRESHWATER,2096
+186,Independent,"111 berowra waters rd, berowra heights nsw 2082",BEROWRA HEIGHTS,2082
+187,Independent,"111 berowra waters rd, berowra nsw 2081",Berowra,2081
+188,Independent,"2-24 rawson pl, haymarket nsw 2000",HAYMARKET,2000
+189,Independent,"2-24 rawson place, haymarket nsw 2000",HAYMARKET,2000
+190,Independent,"209 pittwater rd, manly nsw 2095",Manly,2095
+191,Independent,"281 new canterbury rd, lewisham nsw 2049",Lewisham,2049
+192,Independent,"345 avoca st, randwick nsw 2031",RANDWICK,2031
+193,Independent,"43 booralie rd, terrey hills nsw 2084",TERREY HILLS,2084
+194,Independent,"cnr nelson bay rd and lavis lane, williamtown nsw 2043",WILLIAMTOWN,2043
+195,Metro Fuel,"127 victoria rd, rozelle nsw 2039",ROZELLE,2039
+196,Metro Fuel,"163-165 parramatta rd, haberfield nsw 2045",HABERFIELD,2045
+197,Metro Fuel,"165 parramatta rd, haberfield nsw 2045",Haberfield,2045
+198,Metro Fuel,"275 pacific highway, hornsby nsw 2077",Hornsby,2077
+199,Metro Fuel,"345 avoca st, randwick nsw 2031",RANDWICK,2031
+200,Metro Fuel,"36 henderson rd, alexandria nsw 2015",Alexandria,2015
+201,Metro Fuel,"51 spofforth st, cremorne nsw 2090",Cremorne,2090
+202,Metro Fuel,"531 princes hwy, tempe nsw 2044",TEMPE,2044
+203,Metro Fuel,"533,mowbray rd, lane cove nsw 2066",Lane Cove,2066
+204,Metro Fuel,"57 winnima way, berkeley nsw 2056",Berkeley,2056
+205,Metro Fuel,"599 willoughby rd, willoughby nsw 2068",WILLOUGHBY,2068
+206,Metro Fuel,"656 warringah rd, forestville nsw 2087",Forestville,2087
+207,Metro Fuel,"663 warringah rd, forestville nsw 2087",Forestville,2087
+208,Metro Fuel,"702-704 warringah rd, forestville nsw 2087",Forestville,2087
+209,Mobil,"533,mowbray rd, lane cove nsw 2066",Lane Cove,2066
+210,Shell,"189 south creek rd, cromer nsw 2099",CROMER,2099
+211,Speedway,"20-22 babbage rd, roseville nsw 2069",ROSEVILLE,2069
+212,Speedway,"273 parramatta rd, haberfield nsw 2045",Haberfield,2045
+213,United,"1 the strand, dee why nsw 2099",Dee Why,2099
+214,United,"127 victoria rd, rozelle nsw 2039",ROZELLE,2039
+215,United,"127, rozelle nsw 2039",ROZELLE,2039
+216,United,"189 south creek rd, cromer nsw 2099",Cromer,2099
+217,United,"43 booralie rd, terrey hills nsw 2084",TERREY HILLS,2084
+218,United,"625 pittwater rd, dee why nsw 2099",Dee Why,2099
+219,United,"cnr main and else sts, cundletown nsw 2090",Cundletown,2090
+220,Westside,"209 pittwater rd, manly nsw 2095",Manly,2095
